@@ -1,0 +1,27 @@
+ml:
+    # Parameters
+    seed = 1
+    BATCHSIZE = 2048
+
+    n_studies = 3
+    n_trials = 30
+    n_splits = 5
+
+    # Config
+    output_file = "/tmp/ML-dashboard.html"
+    input_filename = '/tmp/dados_anon_fulldataset.csv'
+    checkpoint_filepath = '/tmp/checkpoint-ML'
+
+mcl:
+    # Parameters
+    seed = 1
+    BATCHSIZE = 2048
+
+    n_studies = 3
+    n_trials = 30
+    n_splits = 5
+
+    # Config
+    output_file = "/tmp/MCL-dashboard.html"
+    input_filename = '/tmp/dados_anon_fulldataset.csv'
+    checkpoint_filepath = '/tmp/checkpoint-MCL'
