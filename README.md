@@ -1,6 +1,6 @@
 # Student Dropout Prediction using 1D CNN-LSTM with Variational Autoencoder Oversampling
 
-Official implementation of our 2022 IEEE LA-CCI paper Student Dropout Prediction using 1D CNN-LSTM with Variational Autoencoder Oversampling.
+Official implementation of our 2022 IEEE LA-CCI paper Student Dropout Prediction using 1D CNN-LSTM with Variational Autoencoder Oversampling by Eduarda C. Coppo, Rhuan S. Caetano, Leandro M. de Lima and Renato A. Krohling.
 
 ## Install
 
