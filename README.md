@@ -22,5 +22,5 @@ Official implementation of our 2022 IEEE LA-CCI paper Student Dropout Prediction
 ### NUM_CLASSES se refere ao número de classes
 `NUM_CLASSES = 2`
 
-# Acknowledgement
+## Acknowledgement
 We borrowed and modified code from ["Autoencoders and Generative Adversarial Networks for Anomaly Detection for Sequences"](https://github.com/stephanieger/imbalanced-sequence-classification) by Stephanie Ger and Diego Klabjan. We would like to expresse our gratitdue for the authors of these repositeries.
