@@ -8,18 +8,18 @@ Official implementation of our 2022 IEEE LA-CCI paper Student Dropout Prediction
 
 `pip install optuna`
 
-## Para instalar o ambiente
+## Enviroment config
 `conda create --name <env> --file env.yml`
 
-## Para configurar o autoencoer
-### No arquivo src\imbalanced-sequence-classification-master\utils\config.py
-### TIMESTEPS se refere ao número de sequências
+## Autoencoer config
+### In file src\imbalanced-sequence-classification-master\utils\config.py
+### TIMESTEPS: sequence lenght
 `TIMESTEPS = 4`
 
-### DATA_DIM se refere ao número de atributos
+### DATA_DIM: number of features
 `DATA_DIM = 26`
 
-### NUM_CLASSES se refere ao número de classes
+### NUM_CLASSES: number of classes
 `NUM_CLASSES = 2`
 
 ## Acknowledgement
